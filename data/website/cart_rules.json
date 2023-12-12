@@ -1,0 +1,58 @@
+{
+  "data": {
+    "cartRules": {
+      "items": [
+        {
+          "actions_serialized": "{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Product\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"wood-blinds\"}}\",\"is_value_processed\":false,\"attribute_scope\":\"\"}]}",
+          "apply_to_shipping": 0,
+          "conditions_serialized": "{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Subselect\",\"attribute\":\"qty\",\"operator\":\">\",\"value\":\"3\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Product\",\"attribute\":\"category_ids\",\"operator\":\"==\",\"value\":\"{{categoryid key=\"wood-blinds\"}}\",\"is_value_processed\":false,\"attribute_scope\":\"\"}]}]}",
+          "coupon_code": null,
+          "coupon_type": "1",
+          "customer_group": "NOT LOGGED IN,General",
+          "description": "Buy 3 premium wood and get the 4th 50% off",
+          "discount_amount": "50.0000",
+          "discount_qty": "1.0000",
+          "discount_step": "1",
+          "is_advanced": 1,
+          "is_rss": 1,
+          "name": "Buy 3 premium wood and get the 4th 50% off",
+          "reward_points_delta": "0",
+          "simple_action": "by_percent",
+          "simple_free_shipping": 0,
+          "site_code": "btg",
+          "sort_order": 0,
+          "stop_rules_processing": 1,
+          "times_used": 4,
+          "use_auto_generation": 0,
+          "uses_per_coupon": 0,
+          "uses_per_customer": 0
+        },
+        {
+          "actions_serialized": "{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Product\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\"}",
+          "apply_to_shipping": 1,
+          "conditions_serialized": "{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Combine\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\SalesRule\\\\Model\\\\Rule\\\\Condition\\\\Address\",\"attribute\":\"base_subtotal\",\"operator\":\">=\",\"value\":\"200\",\"is_value_processed\":false}]}",
+          "coupon_code": null,
+          "coupon_type": "1",
+          "customer_group": "NOT LOGGED IN,General",
+          "description": "Free shipping on any purchase over $200",
+          "discount_amount": "0.0000",
+          "discount_qty": null,
+          "discount_step": "1",
+          "is_advanced": 1,
+          "is_rss": 1,
+          "name": "Spend $200 or more - shipping is free!",
+          "reward_points_delta": "0",
+          "simple_action": "by_percent",
+          "simple_free_shipping": 2,
+          "site_code": "btg",
+          "sort_order": 0,
+          "stop_rules_processing": 0,
+          "times_used": 18,
+          "use_auto_generation": 0,
+          "uses_per_coupon": 0,
+          "uses_per_customer": 0
+        }
+      ]
+    }
+  }
+}

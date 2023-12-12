@@ -1,0 +1,24 @@
+{
+  "data": {
+    "adminUsers": {
+      "items": [
+        {
+          "email": "leah@adobe.com",
+          "firstname": "Leah",
+          "lastname": "Ard",
+          "password": "Password1",
+          "role": "Administrators",
+          "username": "leah"
+        },
+        {
+          "email": "kukla@adobe.com",
+          "firstname": "Steve",
+          "lastname": "Kukla",
+          "password": "Password1",
+          "role": "Administrators",
+          "username": "steve"
+        }
+      ]
+    }
+  }
+}

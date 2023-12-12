@@ -1,0 +1,466 @@
+{
+  "data": {
+    "customAttributeMetadata": {
+      "items": [
+        {
+          "attribute_code": "btg_control_location",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "value": "311",
+              "label": "L",
+              "swatch_value": "Left"
+            },
+            {
+              "value": "312",
+              "label": "R",
+              "swatch_value": "Right"
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": "{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"0\",\"use_product_image_for_swatch\":0}",
+            "attribute_set": "BTG - Blinds\nBTG - Services",
+            "frontend_label": "CONTROL LOCATION",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 0,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 0,
+            "is_used_in_grid": 0,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        },
+        {
+          "attribute_code": "btg_control_type",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "value": "309",
+              "label": "Wand",
+              "swatch_value": "Wand Tilter"
+            },
+            {
+              "value": "310",
+              "label": "Cord",
+              "swatch_value": "Cord Tilter"
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": "{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"0\",\"use_product_image_for_swatch\":0}",
+            "attribute_set": "BTG - Blinds\nBTG - Services",
+            "frontend_label": "CONTROL TYPE",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 0,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 0,
+            "is_used_in_grid": 0,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        },
+        {
+          "attribute_code": "btg_height_measurements",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "value": "324",
+              "label": "20",
+              "swatch_value": null
+            },
+            {
+              "value": "325",
+              "label": "25",
+              "swatch_value": null
+            },
+            {
+              "value": "326",
+              "label": "30",
+              "swatch_value": null
+            },
+            {
+              "value": "327",
+              "label": "40",
+              "swatch_value": null
+            },
+            {
+              "value": "328",
+              "label": "50",
+              "swatch_value": null
+            },
+            {
+              "value": "329",
+              "label": "60",
+              "swatch_value": null
+            },
+            {
+              "value": "330",
+              "label": "70",
+              "swatch_value": null
+            },
+            {
+              "value": "331",
+              "label": "80",
+              "swatch_value": null
+            },
+            {
+              "value": "332",
+              "label": "90",
+              "swatch_value": null
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": null,
+            "attribute_set": "BTG - Blinds\nBTG - Services",
+            "frontend_label": "HEIGHT (in.)",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 0,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 0,
+            "is_used_in_grid": 0,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        },
+        {
+          "attribute_code": "btg_mount_type",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "value": "307",
+              "label": "Inside",
+              "swatch_value": "Inside Mount"
+            },
+            {
+              "value": "308",
+              "label": "Outside",
+              "swatch_value": "Outside Mount"
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": "{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"0\",\"use_product_image_for_swatch\":0}",
+            "attribute_set": "BTG - Blinds\nBTG - Services",
+            "frontend_label": "MOUNT TYPE",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 1,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 0,
+            "is_used_in_grid": 0,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        },
+        {
+          "attribute_code": "btg_style",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "value": "333",
+              "label": "$",
+              "swatch_value": "Contoured"
+            },
+            {
+              "value": "334",
+              "label": "$$",
+              "swatch_value": "Classic"
+            },
+            {
+              "value": "335",
+              "label": "$$$",
+              "swatch_value": "Wood Tones"
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": "{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"1\",\"use_product_image_for_swatch\":0}",
+            "attribute_set": null,
+            "frontend_label": "STYLE AVAILABLE",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 1,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 1,
+            "is_used_in_grid": 1,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        },
+        {
+          "attribute_code": "btg_valance_options",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "value": "313",
+              "label": "Reg",
+              "swatch_value": "Regular"
+            },
+            {
+              "value": "314",
+              "label": "Design",
+              "swatch_value": "Designer"
+            },
+            {
+              "value": "336",
+              "label": "Integrate",
+              "swatch_value": "Integrated"
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": "{\"swatch_input_type\":\"text\",\"update_product_preview_image\":\"0\",\"use_product_image_for_swatch\":0}",
+            "attribute_set": "BTG - Blinds\nBTG - Services",
+            "frontend_label": "VALANCE OPTIONS",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 0,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 1,
+            "is_used_in_grid": 0,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        },
+        {
+          "attribute_code": "btg_width_measurements",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "value": "315",
+              "label": "15",
+              "swatch_value": null
+            },
+            {
+              "value": "316",
+              "label": "20",
+              "swatch_value": null
+            },
+            {
+              "value": "317",
+              "label": "25\"",
+              "swatch_value": null
+            },
+            {
+              "value": "318",
+              "label": "30",
+              "swatch_value": null
+            },
+            {
+              "value": "319",
+              "label": "35",
+              "swatch_value": null
+            },
+            {
+              "value": "320",
+              "label": "40",
+              "swatch_value": null
+            },
+            {
+              "value": "321",
+              "label": "50\"",
+              "swatch_value": null
+            },
+            {
+              "value": "322",
+              "label": "60",
+              "swatch_value": null
+            },
+            {
+              "value": "323",
+              "label": "70",
+              "swatch_value": null
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": null,
+            "attribute_set": "BTG - Blinds\nBTG - Services",
+            "frontend_label": "WIDTH (in.)",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 0,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 0,
+            "is_used_in_grid": 0,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        },
+        {
+          "attribute_code": "btg_color",
+          "store_view_code": "default",
+          "frontend_input": "select",
+          "attribute_options": [
+            {
+              "label": "Bright White",
+              "swatch_value": "#ffffff"
+            },
+            {
+              "label": "Cherry",
+              "swatch_value": "#814c3c"
+            },
+            {
+              "label": "Espresso",
+              "swatch_value": "#2b1f1a"
+            },
+            {
+              "label": "Golden Oak",
+              "swatch_value": "#b76639"
+            },
+            {
+              "label": "Hazelnut",
+              "swatch_value": "#ccb6a9"
+            },
+            {
+              "label": "Maple",
+              "swatch_value": "#c58c6b"
+            },
+            {
+              "label": "Pecan",
+              "swatch_value": "#a46f4b"
+            },
+            {
+              "label": "Walnut",
+              "swatch_value": "#5c3931"
+            },
+            {
+              "label": "White Dove",
+              "swatch_value": "#eeeeee"
+            }
+          ],
+          "storefront_properties": {
+            "is_filterable": "NO",
+            "used_in_product_listing": true,
+            "is_filterable_in_search": false,
+            "is_visible_on_front": false,
+            "position": 0
+          },
+          "admin_properties": {
+            "additional_data": "{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":\"1\",\"use_product_image_for_swatch\":0}",
+            "attribute_set": "BTG - Blinds\nBTG - Services",
+            "frontend_label": "COLOR",
+            "is_comparable": 0,
+            "is_filterable_in_grid": 0,
+            "is_html_allowed_on_front": 1,
+            "is_pagebuilder_enabled": 0,
+            "is_required_in_admin_store": 0,
+            "is_searchable": 0,
+            "is_used_for_price_rules": 0,
+            "is_used_for_promo_rules": 0,
+            "is_used_in_grid": 0,
+            "is_visible": 1,
+            "is_visible_in_advanced_search": 0,
+            "is_visible_in_grid": 1,
+            "is_wysiwyg_enabled": 0,
+            "search_weight": 1,
+            "used_for_sort_by": 0
+          }
+        }
+      ]
+    }
+  }
+}

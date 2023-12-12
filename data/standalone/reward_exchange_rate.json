@@ -1,0 +1,22 @@
+{
+  "data": {
+    "rewardsPointsExchangeRate": {
+      "items": [
+        {
+          "currency_amount": 10,
+          "customer_group": "VIP",
+          "direction": "currency_to_points",
+          "points": 10,
+          "site_code": "base"
+        },
+        {
+          "currency_amount": 1,
+          "customer_group": "VIP",
+          "direction": "points_to_currency",
+          "points": 10,
+          "site_code": "base"
+        }
+      ]
+    }
+  }
+}

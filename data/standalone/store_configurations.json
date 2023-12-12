@@ -1,0 +1,158 @@
+{
+  "data": {
+    "storeConfigurations": {
+      "items": [
+        {
+          "path": "btob/website_configuration/company_active",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "0"
+        },
+        {
+          "path": "btob/website_configuration/negotiablequote_active",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/website_configuration/quickorder_active",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/website_configuration/requisition_list_active",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "btob/default_b2b_payment_methods/applicable_payment_methods",
+          "scope": "default",
+          "scope_code": "default",
+          "value": "0"
+        },
+        {
+          "path": "design/header/welcome",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": ""
+        },
+        {
+          "path": "design/header/logo_src",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "websites/1/logo.png"
+        },
+        {
+          "path": "design/head/shortcut_icon",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "websites/1/favicon.png"
+        },
+        {
+          "path": "design/email/logo",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "websites/1/logo.png"
+        },
+        {
+          "path": "design/head/includes",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": ""
+        },
+        {
+          "path": "general/store_information/country_id",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "US"
+        },
+        {
+          "path": "general/store_information/region_id",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "12"
+        },
+        {
+          "path": "general/store_information/postcode",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "90016"
+        },
+        {
+          "path": "general/store_information/city",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "Los Angeles"
+        },
+        {
+          "path": "general/store_information/street_line1",
+          "scope": "websites",
+          "scope_code": "base",
+          "value": "3640 Holdrege Ave"
+        },
+        {
+          "path": "general/locale/code",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "en_US"
+        },
+        {
+          "path": "currency/options/default",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "USD"
+        },
+        {
+          "path": "currency/options/allow",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "USD"
+        },
+        {
+          "path": "general/store_information/name",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "Blinds To Go"
+        },
+        {
+          "path": "general/store_information/phone",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "310-945-0345"
+        },
+        {
+          "path": "general/store_information/hours",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "9AM - 5PM"
+        },
+        {
+          "path": "shipping/origin/city",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "Los Angeles"
+        },
+        {
+          "path": "shipping/origin/street_line1",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "3640 Holdrege Ave"
+        },
+        {
+          "path": "shipping/origin/postcode",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "90016"
+        },
+        {
+          "path": "web/default/cms_home_page",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "home"
+        }
+      ]
+    }
+  }
+}

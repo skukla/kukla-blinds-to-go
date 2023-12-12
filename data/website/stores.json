@@ -13,7 +13,8 @@
       "site_code": "btg",
       "site_name": "Blinds To Go",
       "store_root_category": "BTG Catalog",
-      "theme": "Magento/luma"
+      "theme": "Kukla/btg",
+      "theme_fallback": "Magento/luma"
     }
   }
 }

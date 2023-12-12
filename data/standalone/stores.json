@@ -13,7 +13,8 @@
       "site_code": "base",
       "site_name": "Main Website",
       "store_root_category": "Default Category",
-      "theme": "Magento/luma"
+      "theme": "Kukla/btg",
+      "theme_fallback": "Magento/luma"
     }
   }
 }

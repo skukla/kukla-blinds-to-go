@@ -60,7 +60,7 @@
           "path": "design/head/includes",
           "scope": "websites",
           "scope_code": "base",
-          "value": ""
+          "value": "<!-- START THEME CUSTOMIZER --><link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"/media/ThemeCustomizer/KuklaBlindsToGoTheme.css\" /><!-- END THEME CUSTOMIZER -->"
         },
         {
           "path": "general/store_information/country_id",

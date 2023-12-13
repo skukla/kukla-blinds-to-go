@@ -1,0 +1,32 @@
+{
+  "data": {
+    "themeCustomizer": {
+      "items": [
+        {
+          "additional_css": "/* Top Header */\r\n.page-header .panel.wrapper {\r\n    background-color: #000 !important;\r\n}\r\n\r\n/* Links */\r\na,\r\na:visited,\r\na.action.remind,\r\na.action.remind:visited,\r\n.bundle-options-container button.action.back {\r\n    color: #25335f;\r\n}\r\n\r\na:hover,\r\na.action.remind:hover .bundle-options-container button.action.back:hover {\r\n    color: #222;\r\n}\r\n\r\na:hover {\r\n    text-decoration: none;\r\n}\r\n\r\n/* Buttons */\r\nbutton.action.primary,\r\na.action.create.primary {\r\n    color: #fff;\r\n    background-color: #25335f;\r\n    border-color: #25335f;\r\n}\r\n\r\nbutton.action.primary:hover,\r\nbutton.action.primary:active,\r\nbutton.action.primary:focus,\r\na.action.create.primary:hover {\r\n    background-color: #222;\r\n    border-color: #222;\r\n}\r\n\r\n/* Navigation */\r\n.navigation .level0.active>.level-top,\r\n.navigation .level0.has-active>.level-top,\r\n.navigation .level0 .submenu .active>a,\r\n.block-collapsible-nav .item.current a,\r\n.block-collapsible-nav .item.current>strong.fotorama__thumb-border {\r\n    border-color: #d9282f;\r\n}\r\n\r\n/* Breadcrumbs */\r\n.breadcrumbs a,\r\n.breadcrumbs a:visited {\r\n    color: #25335f;\r\n}\r\n\r\n.breadcrumbs a:hover {\r\n    color: #25335f;\r\n}\r\n\r\n/* My Account Dropdown Links */\r\n.customer-welcome li a,\r\n.customer-welcome li a:visited {\r\n    color: #575757 !important;\r\n}\r\n\r\n/* Arrow Next To Logged-In Customer's Name */\r\n.customer-welcome .action.switch:after,\r\n.customer-welcome .action.switch:hover {\r\n    color: #575757;\r\n}\r\n\r\n/* My Account Sidebar Links */\r\n.block-collapsible-nav .item.current a,\r\n.block-collapsible-nav .item.current>strong {\r\n    color: #575757 !important;\r\n    border-color: #25335f;\r\n}\r\n\r\n/* Language and Currency Switchers */\r\n.page-header .switcher strong,\r\n.page-footer .switcher strong,\r\n.page-header .switcher .options .action.toggle,\r\n.customer-welcome .action.switch:after,\r\n.customer-welcome .action.switch:hover,\r\n.page-footer .switcher .options .action.toggle {\r\n    color: #fff !important;\r\n}\r\n\r\n/* Mini Cart Icon */\r\n.minicart-wrapper .action.showcart:before {\r\n    color: #575757 !important;\r\n}\r\n\r\n/* Mini Cart Items Count (Orange) */\r\n.minicart-wrapper .action.showcart .counter.qty {\r\n    background: #044124;\r\n    color: #ffffff;\r\n}\r\n\r\n/* My Account Sidebar Links */\r\n.block-collapsible-nav .item a,\r\n.block-collapsible-nav .item>strong {\r\n    color: #575757 !important;\r\n}\r\n\r\n/* Photo Gallery Outlines */\r\n.fotorama__thumb-border {\r\n    border-color: #000;\r\n}\r\n\r\n/* Swatch Borders */\r\n.swatch-option.image:not(.disabled):hover,\r\n.swatch-option.color:not(.disabled):hover,\r\n.swatch-option.selected {\r\n    outline: #000;\r\n}\r\n\r\n/* Shopping Cart Styles */\r\n.cart.table-wrapper .wishlist.split.button>.action.split,\r\n.cart.table-wrapper .wishlist.split.button>.action.toggle,\r\n.gift-item-block .title,\r\n.paypal-review-discount .block>.title strong,\r\n.cart-discount .block>.title strong {\r\n    color: #044124;\r\n}\r\n\r\n.gift-options .actions-toolbar .secondary .action-cancel {\r\n    background-color: white !important;\r\n    color: #575757 !important;\r\n}\r\n\r\n/* Checkout Styles  - Orange Progress Bars, etc */\r\n.opc-progress-bar-item._active:before,\r\n.opc-progress-bar-item._active>span:before {\r\n    background: #000;\r\n    border-color: #000;\r\n}\r\n\r\n.opc-progress-bar-item._active>span:after,\r\n.opc-wrapper .shipping-address-item.selected-item {\r\n    border-color: #000;\r\n}\r\n\r\n.opc-wrapper .shipping-address-item.selected-item:after {\r\n    background: #000;\r\n}\r\n\r\n/* Page Builder Styles */\r\n/* Page Builder Primary Buttons */\r\na.pagebuilder-button-primary,\r\nbutton.pagebuilder-button-primary,\r\ndiv.pagebuilder-button-primary {\r\n    background: #044124;\r\n    border: #044124;\r\n    color: white;\r\n}\r\n\r\na.pagebuilder-button-primary:hover,\r\nbutton.pagebuilder-button-primary:hover,\r\ndiv.pagebuilder-button-primary:hover {\r\n    background: #0cb585;\r\n    border: #0cb585;\r\n    color: white;\r\n    cursor: pointer;\r\n}\r\n\r\n/* Page Builder Buttons as Links */\r\na.pagebuilder-button-link,\r\nbutton.pagebuilder-button-link,\r\ndiv.pagebuilder-button-link {\r\n    color: #25335f !important;\r\n}\r\n\r\n/* Page Builder Slider Dots */\r\n.slick-dots li.slick-active button {\r\n    background: #25335f !important;\r\n}\r\n\r\n/* Page Builder Slider Arrows */\r\n.slick-prev:before,\r\n.slick-next:before,\r\n.slick-prev:after,\r\n.slick-next:after {\r\n    color: #25335f !important;\r\n}",
+          "applied_to": "Kukla/btg",
+          "background_color": null,
+          "block_content_background_color": null,
+          "button_background_color": null,
+          "button_link_color": null,
+          "button_link_hover_color": null,
+          "category_grid_background_color": null,
+          "name": "Kukla Blinds To Go Theme Template",
+          "nav_background_color": null,
+          "nav_dropdown_background_color": null,
+          "nav_dropdown_link_color": null,
+          "nav_dropdown_link_hover_color": null,
+          "nav_link_color": null,
+          "nav_link_hover_color": null,
+          "primary_font_color": null,
+          "primary_heading_color": null,
+          "primary_link_color": null,
+          "primary_link_hover_color": null,
+          "primary_price_color": null,
+          "product_view_background_color": null,
+          "top_bar_color": null
+        }
+      ]
+    }
+  }
+}

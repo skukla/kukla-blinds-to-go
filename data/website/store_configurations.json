@@ -63,12 +63,6 @@
           "value": "websites/1/logo.png"
         },
         {
-          "path": "design/head/includes",
-          "scope": "websites",
-          "scope_code": "btg",
-          "value": "<!-- START THEME CUSTOMIZER --><link  rel=\"stylesheet\" type=\"text/css\"  media=\"all\" href=\"/media/ThemeCustomizer/KuklaBlindsToGoTheme.css\" /><!-- END THEME CUSTOMIZER -->"
-        },
-        {
           "path": "general/store_information/country_id",
           "scope": "websites",
           "scope_code": "btg",
